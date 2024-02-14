@@ -298,3 +298,13 @@ body {
     font-weight: lighter;
   }
 }
+
+#name{
+  color:rgb(0, 23, 97);
+}
+
+.fake-btn{
+  right: 10px;
+  bottom: 8px !important;
+}
+
